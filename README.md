@@ -1,5 +1,4 @@
 # Cache covert channel
-## ACM winterschool 2022
 
 ## Directory Structure
 The code base contains two directory, Makefile and some other required files and described as follows:
